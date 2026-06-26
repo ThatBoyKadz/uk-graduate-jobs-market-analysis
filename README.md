@@ -2,7 +2,7 @@
 
 An end-to-end data project analysing live UK graduate-level data analyst, data scientist, and tech job postings — built while actively job hunting, to understand what skills are actually in demand and what they pay.
 
-🔗 **[Live Dashboard](your-streamlit-link-goes-here)**
+🔗 **[Live Dashboard](https://uk-graduate-jobs-market-analysis-g9yexwwped2cu4zj8kymdc.streamlit.app/)
 
 ## What it does
 
