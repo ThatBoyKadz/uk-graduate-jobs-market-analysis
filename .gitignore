@@ -1,0 +1,5 @@
+venv/
+.env
+__pycache__/
+raw_jobs.json
+raw_jobs_full.json
